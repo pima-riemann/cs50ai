@@ -4,7 +4,6 @@ Tic Tac Toe Player
 
 import math 
 import copy
-import submit50
 
 X = "X"
 O = "O"
